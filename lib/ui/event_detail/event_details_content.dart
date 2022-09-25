@@ -58,7 +58,7 @@ class EventDetailsContent extends StatelessWidget {
             ),
           ),
           const SizedBox(
-            height: 100,
+            height: 170.0,
           ),
           Padding(
             padding: const EdgeInsets.only(left: 200.0, top: 10.0),
