@@ -6,4 +6,4 @@
 ## App Demo ▶ ✨
 ![](conferences1.gif)
 ![](conferences2.gif)
-![](conferences3.gif)
+
